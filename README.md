@@ -13,6 +13,6 @@
 
 # Languages and Tools:
 
-[<img align="left" alt="Python" width="26px" src="img/python.png" />]
-[<img align="left" alt="Git" width="26px" src="img/git.png" />]
-[<img align="left" alt="Github" width="26px" src="img/github.png" />]
+<img align="left" alt="Python" width="26px" src="img/python.png" />
+<img align="left" alt="Git" width="26px" src="img/git.png" />
+<img align="left" alt="Github" width="26px" src="img/github.png" />
