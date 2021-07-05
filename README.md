@@ -13,10 +13,10 @@ Linkedin: https://linkedin.com/in/tofignazarbayov
 
 # Languages and Tools:
 
-<img align="left" alt="Python" width="25px" src="img/python.png" />
-<img align="left" alt="Jupyter" width="25px" src="img/jupyter.png" />
-<img align="left" alt="Git" width="25px" src="img/git.png" />
-<img align="left" alt="Github" width="25px" src="img/github.png" />
-<img align="left" alt="Matlab" width="25px" src="img/matlab.png" />
-<img align="left" alt="Octave" width="25px" src="img/octave.png" />
-<img align="left" alt="Scilab" width="25px" src="img/scilab.png" />
+<img align="left" alt="Python" width="42px" src="img/python.png">
+<img align="left" alt="Jupyter" width="42px" src="img/jupyter.png">
+<img align="left" alt="Git" width="42px" src="img/git.png">
+<img align="left" alt="Github" width="42px" src="img/github.png">
+<img align="left" alt="Matlab" width="42px" src="img/matlab.png">
+<img align="left" alt="Octave" width="42px" src="img/octave.png">
+<img align="left" alt="Scilab" width="42px" src="img/scilab.png">
