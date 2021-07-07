@@ -2,13 +2,14 @@
 
 # I'm a Geophysicist and Developer!
 
-* 🔭 I have a master degree in geophysics and passionate about Machine Learning
-* 👯 I’m looking to collaborate with other ML/DL researchers
-* 🥅 I enjoy contributing to Open Source projects! Glory to mankind!
+* 📚 I have a master degree in geophysics and passionate about Machine Learning
+* 🤝 I’m looking to collaborate with other ML/DL researchers
+* 💻 I enjoy contributing to Open Source projects! Glory to mankind!
+* 🗺️ I speak English 🇬🇧, Russian 🇷🇺, Azeri 🇦🇿, French 🇫🇷
 * ⚡ Fun fact: I write poems on different languages
 
 Website: https://seryozni.github.io \
-Linkedin: https://linkedin.com/in/tofignazarbayov
+LinkedIn: https://linkedin.com/in/tofignazarbayov
 
 # Languages and Tools:
 
