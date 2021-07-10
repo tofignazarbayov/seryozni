@@ -21,14 +21,14 @@ Linkedin: https://linkedin.com/in/tofignazarbayov
 <img align="left" alt="Octave" width="42px" src="img/octave.png">
 <img align="left" alt="Scilab" width="42px" src="img/scilab.png">
 
+<br>
+<br>
+<br>
+
 # Support me:
 
-You can support me by sending some crypto to the following addresses:
+You can support me by sending some crypto to the following Litecoin address:
 
-BTC:
-
-<img align="left" alt="BTC" width="256px" src="img/btc.png">
-
-LTC:
+LTC: ltc1qpgdgnmmqyygh3fu3g46ls8j48p9fmgxv8frse2
 
 <img align="left" alt="LTC" width="256px" src="img/ltc.png">
