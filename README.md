@@ -24,11 +24,3 @@ Linkedin: https://linkedin.com/in/tofignazarbayov
 <br>
 <br>
 <br>
-
-# Support me:
-
-You can support me by sending some crypto to the following Litecoin address:
-
-LTC: ltc1qpgdgnmmqyygh3fu3g46ls8j48p9fmgxv8frse2
-
-<img align="left" alt="LTC" width="256px" src="img/ltc.png">
